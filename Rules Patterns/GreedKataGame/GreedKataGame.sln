@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreedKataGame", "GreedKataGame\GreedKataGame.csproj", "{8EDB1F80-82FD-4B63-8A05-13A76270B53B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EDB1F80-82FD-4B63-8A05-13A76270B53B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDB1F80-82FD-4B63-8A05-13A76270B53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDB1F80-82FD-4B63-8A05-13A76270B53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDB1F80-82FD-4B63-8A05-13A76270B53B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8384367-2987-4540-8A4A-FD5FD38CADA8}
+	EndGlobalSection
+EndGlobal
